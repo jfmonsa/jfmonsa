@@ -14,7 +14,7 @@ Feel free to explore my repositories and connect with me for potential collabora
 + ***Other tools***: JIRA, Scrum framework, Linux enviroment, neovim.
 
 ## 📫 How to reach me:
-+ Email me [here](juanmonsalve@protonmail.com)
++ Email me [here](mailto:juanmonsalve@protonmail.com)
 <!--
 **jfmonsa/jfmonsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
