@@ -10,7 +10,7 @@ Feel free to explore my repositories and connect with me for potential collabora
 
 ## ⚡ Knowledge in
 + ***Web development***: React, Node, Express
-+ ***Programming Languages***: Python, Java, Javscript, PHP, SQL and Relational Databases desing, C++
++ ***Programming Languages***: Python, Java, Javascript, PHP, SQL and Relational Databases desing, C++
 + ***Other tools***: JIRA, Scrum framework, Linux enviroment, neovim.
 
 ## 📫 How to reach me:
