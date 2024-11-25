@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Juan Monsalve currently a sixth-semester Systems Engineering student at the University of Valle, Colombia. As a hardworking and passionate individual, I am deeply enthusiastic about technology and constantly seeking new opportunities to grow and add value. My academic journey and personal projects reflect my commitment to improve my technical skills.
+I'm Juan Monsalve currently a seventh-semester Systems Engineering student at the University of Valle, Colombia. As a hardworking and passionate individual, I am deeply enthusiastic about technology and constantly seeking new opportunities to grow and add value. My academic journey and personal projects reflect my commitment to improve my technical skills.
 
 Feel free to explore my repositories and connect with me for potential collaborations and professional opportunities.
 
