@@ -7,7 +7,7 @@ Feel free to explore my repositories and connect with me for collaborations or p
 ## 🌟 What I’m currently focusing on  
 - Developing **Full-Stack applications** with a focus on clean architecture, design patterns, and scalability.  
 - Strengthening my knowledge in **Data Structures and Algorithms** (DSA) on platforms like LeetCode.  
-- Exploring theoretical aspects of **Computer Science** and nerdy stuff 🤓, including advanced algorithms and data structures, programming languages theory, artificial intelligence, etc.
+- Exploring theoretical aspects of **Computer Science** and nerdy stuff 🤓, including advanced algorithms, data structures, programming languages theory, artificial intelligence, etc.
 
 ## 💻 Technical Skills  
 - **Backend:** NestJS, Node.js, Express.js, JWT  
