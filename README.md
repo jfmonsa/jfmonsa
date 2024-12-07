@@ -7,7 +7,7 @@ Feel free to explore my repositories and connect with me for collaborations or p
 ## 🌟 What I’m currently focusing on  
 - Developing **Full-Stack applications** with a focus on clean architecture, design patterns, and scalability.  
 - Strengthening my knowledge in **Data Structures and Algorithms** (DSA) on platforms like LeetCode.  
-- Exploring theoretical aspects of **Computer Science**, including advanced algorithms, programming languages theory, artificial intelligence, and simulation.  
+- Exploring theoretical aspects of **Computer Science** and nerdy stuff 🤓, including advanced algorithms and data structures, programming languages theory, artificial intelligence, etc.
 
 ## 💻 Technical Skills  
 - **Backend:** NestJS, Node.js, Express.js, JWT  
@@ -35,7 +35,6 @@ A **Web App** to play chess online with different chess modes, make friends, sol
 A **Web App** for book streaming that allows users to manage books, perform searches, write comments, receive recommendations, and create personalized lists.  
 - **Tech Stack:** React.js, Node.js, Express.js, PostgreSQL, JavaScript, CSS  
 - **Highlights:** Full-text search, user-friendly interface, recommendation system, and performance testing with K6.  
-- **Methodologies:** Agile/Scrum  
 - [Frontend](https://github.com/jfmonsa/atlasBooks-front) | [Backend](https://github.com/JSebastianMarin/AtlasBooks-back)
 
 ## 📫 Let's Connect  
