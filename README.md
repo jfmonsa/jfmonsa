@@ -39,5 +39,5 @@ A **Web App** for book streaming that allows users to manage books, perform sear
 
 ## 📫 Let's Connect  
 - **Email:** [juanmonsalve@protonmail.com](mailto:juanmonsalve@protonmail.com)
-- **Linkedin Profile**: [www.linkedin.com/in/jfmonsa](www.linkedin.com/in/jfmonsa)
+- **Linkedin Profile**: [linkedin.com/in/jfmonsa](https://linkedin.com/in/jfmonsa)
 - **LeetCode Challenges:** [leetcode.com/jfmonsa](https://leetcode.com/jfmonsa)  
