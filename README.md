@@ -5,8 +5,7 @@ I'm **Juan Monsalve**, an eighth-semester **Systems Engineering student** at the
 Feel free to explore my repositories and connect with me for collaborations or professional opportunities.  
 
 ## 🌟 What I’m currently focusing on  
-- Developing **Full-Stack applications** with a focus on clean architecture, design patterns, and scalability.  
-- Strengthening my knowledge in **Data Structures and Algorithms** (DSA) on platforms like LeetCode.  
+- Developing **Full-Stack applications** with a focus on clean architecture, design patterns, and scalability.
 - Exploring theoretical aspects of **Computer Science** and nerdy stuff 🤓, including advanced algorithms, data structures, programming languages theory, artificial intelligence, etc.
 
 ## 💻 Technical Skills  
