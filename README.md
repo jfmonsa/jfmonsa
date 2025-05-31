@@ -2,9 +2,14 @@
 
 I'm **Juan Monsalve**, an eighth-semester **Systems Engineering student** at the University of Valle, Colombia. I am passionate about leveraging technology to solve complex problems using scalable and clean solutions.  
 
+<div align="center" style="padding: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jfmonsa&show_icons=true&theme=merko" alt="Anurag's GitHub stats" />
+</div>
+
 ## 🌟 What I’m currently focusing on  
 - Developing **Full-Stack applications** with a focus on architecture, design patterns, and scalability.
 - Exploring theoretical aspects of **Computer Science** and nerdy stuff 🤓.
+
 
 ## 📫 Let's Connect  
 - **Email:** [juanmonsalve@protonmail.com](mailto:juanmonsalve@protonmail.com)
